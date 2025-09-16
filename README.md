@@ -1,6 +1,6 @@
 # javascript
 
-# JS from Scratch 🚀
+# JS from Scratch 🚀 by onkar
 
 Learn JavaScript from the ground up — no prior programming experience required.  
 This repository contains my personal learning journey, examples, and projects as I build JavaScript skills from scratch.\\
