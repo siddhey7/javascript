@@ -24,7 +24,7 @@ console.log(gameName.toUpperCase()); // 'VALORANT'
 console.log(gameName.charAt(2)); // 'l'
 
 // Find index of a specific character
-console.log(gameName.indexOf('o')); // 2
+console.log(gameName.indexOf('o')); // 3
 
 // Extract part of string using substring(start, end)
 // Note: end index is NOT included
