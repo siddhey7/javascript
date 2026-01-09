@@ -1,4 +1,4 @@
-// Declare a string using template literals (dynamic string interpolation)
+// Declare a string using template literals -----> (using backticks" ` ") (dynamic string interpolation ----> using (${}) for inserting strings dynamically )
 const name = "manas";
 const gitrepocount = 50;
 
