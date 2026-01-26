@@ -83,8 +83,8 @@ console.log("Values:", Object.values(tinderUser));
 // ✅ Object.entries() → Returns [key, value] pairs
 console.log("Entries:", Object.entries(tinderUser));  
 
-// ✅ hasOwnProperty() → Checks if property exists in object
-console.log("Has isLoggedIn?", tinderUser.hasOwnProperty("isLoggedIn"));
+// ✅ hasOwn() → Checks if property exists in object
+console.log("Has isLoggedIn?", Object.hasOwn("isLoggedIn"));
 
 
 
