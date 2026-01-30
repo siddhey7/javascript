@@ -29,11 +29,8 @@ if(true) {
         const website = "youtube.com"
         //console.log(username + website);
     }
-}
-
-
 //console.log(username)
-
+}
 
 
 //+++++++++++++++++++++++ intresting +++++++++++++++++++++
